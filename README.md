@@ -19,10 +19,10 @@ This Docker image is designed for bug bounty hunters and security researchers. I
 - [qsreplace](https://github.com/tomnomnom/qsreplace): Replace parameter values in URLs with payloads.
 - [Dalfox](https://github.com/hahwul/dalfox): A fast, parameter analysis, and XSS scanner.
 - [Robots.txt parser](https://github.com/edoardottt/lit-bb-hack-tools/robotstxt): Parse and analyze robots.txt files.
-- [eefjsf](https://github.com/edoardottt/lit-bb-hack-tools/eefjsf): A tool for exploring edge cases and security issues in web applications.
+- [eefjsf](https://github.com/edoardottt/lit-bb-hack-tools/eefjsf): Pulls the Endpoint from multiple Javascript URLs and make it as a wordlists
 - [URLwalk](https://github.com/root4loot/urlwalk): A simple tool for downloading and walking the content of a list of URLs.
 - [Hakrawler](https://github.com/hakluke/hakrawler): A fast, simple, web crawler for displaying sensitive information on websites.
-- [SocialHunter](https://github.com/utkusen/socialhunter): Collect information about social media accounts.
+- [SocialHunter](https://github.com/utkusen/socialhunter): It scans a list of URLs and Finds broken social links
 
 ## Installation
 
